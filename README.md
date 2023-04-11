@@ -5,9 +5,9 @@ This project is a web-based visualizer for the Advanced Encryption Standard (AES
 - [Getting Started](#getting-started-🚀])
 - [Usage](#usage-🤖)
 - [Contributing](#contributing)
-- [License]()
-- [Contact]()
-- [Acknowledgements]()
+- [License](#license-📜)
+- [Contact](#contact-📞)
+- [Acknowledgements](#acknowledgements-👏)
 
 ## Getting Started 🚀
 To get started with this project, you can simply clone the repository and open the index.html file in your web browser 🌐. The project is written in JavaScript and does not require any external dependencies or libraries 📦.
