@@ -1,6 +1,14 @@
 # AES Visualizer 🛡️
 This project is a web-based visualizer for the Advanced Encryption Standard (AES) algorithm 🔒. It allows users to input plaintext and a key 🔑, and then visualizes the internal workings of the AES algorithm to produce the corresponding ciphertext 📝.
 
+# Table of Contents 📚
+- [Getting Started](#getting-started-🚀])
+- [Usage](#usage-🤖)
+- [Contributing](#contributing)
+- [License]()
+- [Contact]()
+- [Acknowledgements]()
+
 # Getting Started 🚀
 To get started with this project, you can simply clone the repository and open the index.html file in your web browser 🌐. The project is written in JavaScript and does not require any external dependencies or libraries 📦.
 
